@@ -4,7 +4,7 @@ This is my first notebook, i made this as part of my corse learning the fundiman
 Take a look at where i got the template from: [The Bootcamp](https://github.com/EDGENortheastern/network-rail-2022-welcome)
 
 ## Other work i have been doing
-I have also been looking at veriables latly, please feel free to copy one that i have made and give it a go :)
+I have also been looking at veriables latly, please feel free to copy the mini chat bot that I made and give it a go :)
 
 ```
 
