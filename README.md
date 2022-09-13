@@ -22,6 +22,6 @@ print("Thank you for the " + ("⭐" * stars) + " If you wish to leave more feedb
 
 ```
 
--
+--
 Thank you for visiting my page, i will upload more as i learn!
--
+--
