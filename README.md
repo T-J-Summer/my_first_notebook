@@ -22,8 +22,5 @@ print("Thank you for the " + ("⭐" * stars) + " If you wish to leave more feedb
 
 ```
 
-Headings that go from 1 to 3 in order
-Some links
-a code block
-
-To make a code block in Markdown use  (a back-tick)
+Thank you for visiting my page, i will upload more as i learn!
+-
