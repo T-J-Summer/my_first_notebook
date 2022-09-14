@@ -1,4 +1,4 @@
-# my_first_notebook
+# My first Notebook
 This is my first notebook, i made this as part of my corse learning the fundimantals of coding!
 
 Take a look at where i got the template from: [The Bootcamp](https://github.com/EDGENortheastern/network-rail-2022-welcome)
