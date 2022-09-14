@@ -5,6 +5,7 @@ Take a look at where i got the template from: [The Bootcamp](https://github.com/
 
 ## Other work i have been doing
 I have also been looking at veriables latly, please feel free to copy the mini chat bot that I made and give it a go :)
+What the code does is it imitates a chat bot with a support line, it askes for information from the user and replies in a relivant matter.
 
 ```
 
